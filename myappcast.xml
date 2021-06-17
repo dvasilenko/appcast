@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Debt Now App - Appcast</title>
+        <title>Grocery App - Appcast</title>
         <item>
-            <title>Version 1.1.0</title>
-            <description>Minor updates and improvements.</description>
-            <pubDate>Sun, 20 Apr 2021 12:00:00 +0000</pubDate>
+            <title>Version 1.0.71</title>
+            <description>Added possibility to pay with payment card without saving it; Improved Opening hours settings for stores; Users can open store address on default maps app; Bugfix</description>
+            <pubDate>Sun, 16 June 2021 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.grocerygiant.app" sparkle:version="1.1.0" sparkle:os="android" />
+        </item>
+         <item>
+            <title>Version 1.0.75</title>
+            <description>Fixed logout; Fixed name on home screen</description>
+            <pubDate>Sun, 17 June 2021 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.grocerygiant.app" sparkle:version="1.1.0" sparkle:os="android" />
         </item>
     </channel>
